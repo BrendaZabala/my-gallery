@@ -23,8 +23,8 @@
 
 ## Overview
 
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/BrendaZabala/my-gallery/blob/gh-pages/screenshots/screenshot-my-gallery-laptop.png?raw=true)
+![screenshot](https://github.com/BrendaZabala/my-gallery/blob/gh-pages/screenshots/screenshot-my-gallery-mobile.png?raw=true)
 
 ### Built With
 
